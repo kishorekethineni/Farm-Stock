@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "145737797129",
+    "firebase_url": "https://farm-stock-c6dd2.firebaseio.com",
+    "project_id": "farm-stock-c6dd2",
+    "storage_bucket": "farm-stock-c6dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145737797129:android:8455187f9005d3d7d172d8",
+        "android_client_info": {
+          "package_name": "com.example.farmstock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145737797129-occ5ip528fp86ira664rip3ds6dpor8d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.farmstock",
+            "certificate_hash": "9e66b346b63fbd329f6a152741f723dc6e0a72f0"
+          }
+        },
+        {
+          "client_id": "145737797129-reac253qjo5ggvdocusiqt1ku6f7scor.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjRONlgaQBA0GLCnW5h6V0S7jckJKaD3s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145737797129-reac253qjo5ggvdocusiqt1ku6f7scor.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+AUTHOR: Pranshu Ranjan
+DESIGNED & DEVELOPED by Pranshu Ranjan
+BYUER:Aman Kumar Yadav and his team
+
+Total pages(fragments and activity):5 activity and 4 fragments :- activities= Home ,Login,Register,Sales.
+                                                                  Fragments= Dashboard,Weather,Agricututal news,Tools
+
+content:contetn has been taken down from the various sources as per the requirements .
+Aman and his team want to have this app as for thier project, This is an app built in the context of farmers and their utility  .
+
+Note:- please ensure you should not delete any of the folder i have prvided to you as it will cause errrors in the site. 
+
+contact:pranshuprgk@gmail.com.
+
+thanks.
