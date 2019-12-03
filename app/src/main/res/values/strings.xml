@@ -60,7 +60,7 @@
     <string name="title_activity_user_main">UserMainActivity</string>
     <string name="title_activity_main2">Main2Activity</string>
     <string name="string_weather">Weather</string>
-    <string name="string_dashboard">Dashboard</string>
+    <string name="string_dashboard">My Profile</string>
     <string name="back_text">"&lt;&lt;"</string>
     <string name="title_activity_fragment_tools">fragment_tools</string>
 </resources>

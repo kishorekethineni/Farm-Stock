@@ -15,19 +15,15 @@
         <item
             android:id="@+id/nav_slideshow"
             android:icon="@drawable/ic_assignment_black"
-            android:title="Agricultural News" />
+            android:title="News" />
         <item
             android:id="@+id/nav_tools"
-            android:icon="@drawable/ic_menu_manage"
-            android:title="@string/menu_tools" />
+            android:icon="@drawable/ic_shopping_cart_black_24dp"
+            android:title="Shop" />
     </group>
 
     <item android:title="Communicate">
         <menu>
-            <item
-                android:id="@+id/nav_share"
-                android:icon="@drawable/ic_menu_share"
-                android:title="@string/menu_share" />
             <item
                 android:id="@+id/nav_logout"
                 android:icon="@drawable/ic_exit_to_app_black_24dp"
